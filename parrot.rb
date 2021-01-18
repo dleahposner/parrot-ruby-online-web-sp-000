@@ -1,3 +1,3 @@
 def parrot 
-  "Squack"
+  puts "Squack"
 end
