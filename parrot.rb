@@ -1,3 +1,2 @@
-def parrot 
-  puts "Squack"
+def parrot("Squack")
 end
