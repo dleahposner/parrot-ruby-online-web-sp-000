@@ -1,2 +1,2 @@
-def parrot("Squack")
+def parrot(Squawk)
 end
