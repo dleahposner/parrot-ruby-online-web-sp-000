@@ -1,2 +1,4 @@
-def parrot(Squawk)
+def parrot
+  
+
 end
